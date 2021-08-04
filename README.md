@@ -1,4 +1,4 @@
-#Este repositório contém os passos das aplicações 'Python e Panda' pelo 'Google Colab'.
+Este repositório contém os passos das aplicações 'Python e Panda' pelo 'Google Colab'.
 Passos para fazer:
 
 -Baixe a pasta  e extraia;
